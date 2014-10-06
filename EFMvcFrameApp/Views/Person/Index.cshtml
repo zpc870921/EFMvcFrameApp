@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewBag.Title = "IndexView1";
+}
+
+<h2>IndexView1</h2>
+
+<ul id="personlist">
+
+</ul>
+<input type="button" value="请求列表" id="btnlists"/>
+
+
+<input type="button" value="添加" id="btnadd"/>
+
+@section scripts{
+    <script type="text/javascript">
+        $(function () {
+            $("#btnlists").click(function () {
+                $.post("/api/person/getall").done(function (d) {
+                    $(d).each(function (i, v) {
+                        $("<li/>", { text: v.Id + v.Name + v.Address }).appendTo($("#personlist"));
+                    });
+                }).fail(function (err) {
+                    alert(err);
+                });
+            });
+            $("#btnadd").click(function () {
+                $.post("/api/person/addperson", { Id: 2, Name: "zou", Address: "江西省瑞昌市横立山乡", Age: 27, Sex: true, Mobile: "15313150410" }, function (d) {
+                    if (d > 0) {
+                        alert("添加成功！");
+                        alert(d);
+                    }
+                    
+                });
+            });
+        })
+    </script>
+    }

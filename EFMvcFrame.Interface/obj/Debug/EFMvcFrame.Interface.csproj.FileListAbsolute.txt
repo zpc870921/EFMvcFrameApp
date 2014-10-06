@@ -1,0 +1,7 @@
+E:\其他文件\Test\EFMvcFrameApp\EFMvcFrame.Interface\bin\Debug\EFMvcFrame.Interface.dll
+E:\其他文件\Test\EFMvcFrameApp\EFMvcFrame.Interface\bin\Debug\EFMvcFrame.Interface.pdb
+E:\其他文件\Test\EFMvcFrameApp\EFMvcFrame.Interface\bin\Debug\EFMvcFrame.Model.dll
+E:\其他文件\Test\EFMvcFrameApp\EFMvcFrame.Interface\bin\Debug\EFMvcFrame.Model.pdb
+E:\其他文件\Test\EFMvcFrameApp\EFMvcFrame.Interface\obj\Debug\EFMvcFrame.Interface.dll
+E:\其他文件\Test\EFMvcFrameApp\EFMvcFrame.Interface\obj\Debug\EFMvcFrame.Interface.pdb
+E:\其他文件\Test\EFMvcFrameApp\EFMvcFrame.Interface\obj\Debug\EFMvcFrame.Interface.csprojResolveAssemblyReference.cache

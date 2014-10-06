@@ -1,0 +1,5 @@
+E:\其他文件\Test\EFMvcFrameApp\EFMvcFrame.Model\bin\Debug\EFMvcFrame.Model.dll
+E:\其他文件\Test\EFMvcFrameApp\EFMvcFrame.Model\bin\Debug\EFMvcFrame.Model.pdb
+E:\其他文件\Test\EFMvcFrameApp\EFMvcFrame.Model\obj\Debug\EFMvcFrame.Model.dll
+E:\其他文件\Test\EFMvcFrameApp\EFMvcFrame.Model\obj\Debug\EFMvcFrame.Model.pdb
+E:\其他文件\Test\EFMvcFrameApp\EFMvcFrame.Model\obj\Debug\EFMvcFrame.Model.csprojResolveAssemblyReference.cache
