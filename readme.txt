@@ -1,7 +1,6 @@
-author:×ŞÅô³Ï 
+author:é‚¹é¹è¯š 
 qq:443813032
 job:software engineer
-company:±±¾©Ò×ÓÎÌìÏÂ¹ú¼ÊÂÃĞĞÉç
 
 
-ÎÒµÄµÚÒ»¸öASP.NET MVC£¨WebApi£© + Entity FrameWork+ Unity+Redis+Sql Server/Other¼Ü¹¹µÄweb¿ª·¢¼Ü¹¹Éè¼Æ
+æˆ‘çš„ç¬¬ä¸€ä¸ªASP.NET MVCï¼ˆWebApiï¼‰ + Entity FrameWork+ Unity+Redis+Sql Server/Otheræ¶æ„çš„webå¼€å‘æ¶æ„è®¾è®¡
